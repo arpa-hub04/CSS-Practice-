@@ -1,0 +1,21 @@
+.big-box{
+    width:400px;
+    height:300px;
+    background-color:lightgray;
+    margin:50px;
+
+    position:relative;
+}
+
+.small-box{
+    width:100px;
+    height:100px;
+    background-color:tomato;
+   
+
+    position:relative;
+    top:30px;
+    left:50px;
+    
+}
+
